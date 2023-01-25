@@ -1,9 +1,9 @@
-x = 5
+x = int(input())
 if x > 0:
-    print("x is positive")
+    print(f"{x} is positive")
     if x % 2:
-        print("x is even")
+        print(f"{x} is even")
     else:
-        print("x is odd")
+        print(f"{x} is odd")
 else:
-    print("x is negative")
+    print(f"{x} is negative")
