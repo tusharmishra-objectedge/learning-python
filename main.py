@@ -6,4 +6,4 @@ if x > 0:
     else:
         print(f"{x} is odd")
 else:
-    print(f"{x} is negative")
+    print(f"{x} is negative (-ve)")
