@@ -1,6 +1,6 @@
 x = int(input())
 if x > 0:
-    print(f"{x} is positive")
+    print(f"{x} is positive (+ve)")
     if x % 2:
         print(f"{x} is even")
     else:
