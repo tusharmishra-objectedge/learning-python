@@ -1,7 +1,6 @@
-'''
-nothing
-new
-here
-or
-anywhere
-'''
+def f():
+    print(None)
+    return False
+
+
+f()
