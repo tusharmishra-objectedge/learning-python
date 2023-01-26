@@ -7,5 +7,7 @@ if x > 0:
         print(f"{x} is odd")
 else:
     print(f"{x} is negative (-)")
-    y=3
+    def g():
+        print(None)
+        return False
     print('not a natural no.')
